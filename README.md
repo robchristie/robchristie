@@ -2,8 +2,9 @@
 
 I build experimental systems software, primarily in Rust.
 
-- [Polyorama](https://github.com/robchristie/polyorama) — GPU-driven
-  analytical workspaces for native and WebGPU environments.
+- [Stobie](https://github.com/robchristie/stobie) — agent-friendly,
+  immediate-mode application framework in Rust for native-style applications
+  on the desktop and in the browser.
 - [Emuella](https://github.com/emuella) — open-source image codec work,
   currently focused on JPEG 2000 and HTJ2K.
 
